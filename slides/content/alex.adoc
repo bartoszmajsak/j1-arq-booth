@@ -1,0 +1,10 @@
+[.topic.bannerleft.shadow]
+== _Alex Soto_
+
+[{caption-off}]
+image::alex-profile.jpg[Alex]
+
+* {point-label} Arquillian Cube Lead
+* {point-label} CloudBees
+* {point-label} {twitter} @alexsotob {github} lordofthejars
+

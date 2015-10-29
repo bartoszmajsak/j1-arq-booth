@@ -1,0 +1,23 @@
+[.topic.band]
+== !
+
+[{caption-off}, crole="band"]
+.Arquillian *Cube*
+image::cubes.jpg[]
+
+include::alex.adoc[]
+
+[.topic.bannerleft]
+== What is *Arquillian Cube*?
+[{caption-off}]
+image::cube.jpg[Rubik]
+
+* {point-label} Manages lifecycle of *Docker* containers
+* {point-label} Uses *Arquillian* remote adapters
+* {point-label} Orchestrates containers
+* {point-label} Not only for *Application Servers*
+** {point-label} _Dropwizard_
+** {point-label} _Spring Boot_
+** {point-label} _Netty_
+** {point-label} _Node_
+** {point-label} _Vert.x_

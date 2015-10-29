@@ -1,0 +1,34 @@
+[.topic.band]
+== !
+
+[{caption-off}, crole="band"]
+.Arquillian *Core*
+image::invasion.jpg[]
+
+[.topic.bannerleft]
+== What is *Arquillian Core*?
+[{caption-off}]
+image::arquillian_icon_256px-glossy_noshaodw.png[Rubik]
+
+* {point-label} Testing Platform, not yet another testing library
+* {point-label} Execute from wherever you want
+* {point-label} Flexible and extensible
+* {point-label} Portable tests
+
+[.topic.bannerleft]
+== What is *Arquillian Test*?
+[{caption-off}]
+image::arquillian_icon_256px-glossy_noshaodw.png[Rubik]
+
+* {point-label} Abstraction
+* {point-label} JUnit, TestNG, Spock, Cucumber
+
+[.topic.bannerleft]
+== What is *Arquillian Container*?
+[{caption-off}]
+image::arquillian_icon_256px-glossy_noshaodw.png[Rubik]
+
+* {point-label} Container management
+* {point-label} Deployment management
+* {point-label} WildFly, JBoss EAP, Tomcat, Jetty, TomEE, GlassFish, WebLogic, WebSphere..
+

@@ -1,0 +1,18 @@
+[.topic.band]
+== !
+
+[{caption-off}, crole="band"]
+.Arquillian *Persistence*
+image::data_storage.jpg[]
+
+include::bartosz.adoc[]
+
+[.topic.bannerleft]
+== What is *Arquillian Persistence*?
+
+[{caption-off}]
+image::storage.png[Storage]
+
+* {point-label} Manages lifecycle of *Database*
+* {point-label} Setup test date
+* {point-label} Verify data sets

@@ -1,0 +1,11 @@
+= Taming microservices testing with *Docker* and *Arquillian*
+include::conf/_settings.adoc[]
+
+include::content/aslak.adoc[]
+include::content/arquillian-core.adoc[]
+
+include::content/arquillian-cube.adoc[]
+
+include::content/arquillian-persistence.adoc[]
+
+include::content/conclusion.adoc[]
